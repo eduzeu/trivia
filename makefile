@@ -1,6 +1,3 @@
-#Eduardo Hernandez
-#CS 392 Final project
-# I pledge my honor that I have abided by the Stevens Honor System.
 
 CC = gcc
 
